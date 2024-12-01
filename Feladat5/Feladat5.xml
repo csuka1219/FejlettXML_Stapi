@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weaponCategories>
+    <category name="handHeldWeapon" count="48"/>
+    <category name="projectileWeapon" count="22"/>
+    <category name="explosiveWeapon" count="28"/>
+    <category name="directedEnergyWeapon" count="18"/>
+    <category name="laserTechnology" count="1"/>
+    <category name="fictionalWeapon" count="6"/>
+    <category name="phaserTechnology" count="7"/>
+</weaponCategories>

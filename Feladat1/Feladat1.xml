@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weapons>
+    <weapon>
+        <name>Advanced long-range torpedo</name>
+        <explosiveWeapon>true</explosiveWeapon>
+        <alternateReality>true</alternateReality>
+    </weapon>
+    <weapon>
+        <name>Cold fusion device</name>
+        <explosiveWeapon>true</explosiveWeapon>
+        <alternateReality>true</alternateReality>
+    </weapon>
+</weapons>

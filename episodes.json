@@ -1,0 +1,2516 @@
+{
+  "page": {
+    "pageNumber": 0,
+    "pageSize": 100,
+    "numberOfElements": 100,
+    "totalElements": 860,
+    "totalPages": 9,
+    "firstPage": true,
+    "lastPage": false
+  },
+  "sort": {
+    "clauses": []
+  },
+  "episodes": [
+    {
+      "uid": "EPMA0000001002",
+      "title": "'Til Death Do Us Part",
+      "titleGerman": "Bis daß der Tod uns scheide",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000073238",
+        "title": "Star Trek: Deep Space Nine"
+      },
+      "season": {
+        "uid": "SAMA0000001741",
+        "title": "DS9 Season 7"
+      },
+      "seasonNumber": 7,
+      "episodeNumber": 18,
+      "productionSerialNumber": "40510-568",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2375,
+      "yearTo": 2375,
+      "usAirDate": "1999-04-14",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000275161",
+      "title": "...But to Connect",
+      "titleGerman": "Verbindung",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000201665",
+        "title": "Star Trek: Discovery"
+      },
+      "season": {
+        "uid": "SAMA0000254126",
+        "title": "DIS Season 4"
+      },
+      "seasonNumber": 4,
+      "episodeNumber": 7,
+      "productionSerialNumber": "407",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": null,
+      "yearTo": null,
+      "usAirDate": "2021-12-30",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000000505",
+      "title": "11001001",
+      "titleGerman": "11001001",
+      "titleItalian": null,
+      "titleJapanese": "盗まれたエンタープライズ",
+      "series": {
+        "uid": "SEMA0000062876",
+        "title": "Star Trek: The Next Generation"
+      },
+      "season": {
+        "uid": "SAMA0000001633",
+        "title": "TNG Season 1"
+      },
+      "seasonNumber": 1,
+      "episodeNumber": 15,
+      "productionSerialNumber": "40271-116",
+      "featureLength": false,
+      "stardateFrom": 41365.9,
+      "stardateTo": 41365.9,
+      "yearFrom": 2364,
+      "yearTo": 2364,
+      "usAirDate": "1988-02-01",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000001572",
+      "title": "11:59",
+      "titleGerman": "23 Uhr 59",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000000029",
+        "title": "Star Trek: Voyager"
+      },
+      "season": {
+        "uid": "SAMA0000001753",
+        "title": "VOY Season 5"
+      },
+      "seasonNumber": 5,
+      "episodeNumber": 23,
+      "productionSerialNumber": "40840-217",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": null,
+      "yearTo": null,
+      "usAirDate": "1999-05-05",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000001415",
+      "title": "A Fistful of Datas",
+      "titleGerman": "Eine Handvoll Datas",
+      "titleItalian": null,
+      "titleJapanese": "ホロデッキ・イン・ザ・ウエスト",
+      "series": {
+        "uid": "SEMA0000062876",
+        "title": "Star Trek: The Next Generation"
+      },
+      "season": {
+        "uid": "SAMA0000001638",
+        "title": "TNG Season 6"
+      },
+      "seasonNumber": 6,
+      "episodeNumber": 8,
+      "productionSerialNumber": "40276-234",
+      "featureLength": false,
+      "stardateFrom": 46271.5,
+      "stardateTo": 46271.5,
+      "yearFrom": 2369,
+      "yearTo": 2369,
+      "usAirDate": "1992-11-07",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000000533",
+      "title": "A Man Alone",
+      "titleGerman": "Unter Verdacht",
+      "titleItalian": null,
+      "titleJapanese": "宇宙ステーション殺人事件",
+      "series": {
+        "uid": "SEMA0000073238",
+        "title": "Star Trek: Deep Space Nine"
+      },
+      "season": {
+        "uid": "SAMA0000001735",
+        "title": "DS9 Season 1"
+      },
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "productionSerialNumber": "40511-403",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": null,
+      "yearTo": null,
+      "usAirDate": "1993-01-17",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000283710",
+      "title": "A Mathematically Perfect Redemption",
+      "titleGerman": "Eine mathematisch perfekte Vergeltung",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000240166",
+        "title": "Star Trek: Lower Decks"
+      },
+      "season": {
+        "uid": "SAMA0000267336",
+        "title": "LD Season 3"
+      },
+      "seasonNumber": 3,
+      "episodeNumber": 7,
+      "productionSerialNumber": "LD-3007",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2381,
+      "yearTo": 2381,
+      "usAirDate": "2022-10-06",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000001320",
+      "title": "A Matter Of Honor",
+      "titleGerman": "Der Austauschoffizier",
+      "titleItalian": null,
+      "titleJapanese": "錯綜した美学",
+      "series": {
+        "uid": "SEMA0000062876",
+        "title": "Star Trek: The Next Generation"
+      },
+      "season": {
+        "uid": "SAMA0000001634",
+        "title": "TNG Season 2"
+      },
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "productionSerialNumber": "40272-134",
+      "featureLength": false,
+      "stardateFrom": 42506.5,
+      "stardateTo": 42506.5,
+      "yearFrom": 2365,
+      "yearTo": 2365,
+      "usAirDate": "1989-02-06",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000001390",
+      "title": "A Matter Of Time",
+      "titleGerman": "Der zeitreisende Historiker",
+      "titleItalian": "Uno strano visitatore",
+      "titleJapanese": "26世紀のタイム・トラベラー",
+      "series": {
+        "uid": "SEMA0000062876",
+        "title": "Star Trek: The Next Generation"
+      },
+      "season": {
+        "uid": "SAMA0000001637",
+        "title": "TNG Season 5"
+      },
+      "seasonNumber": 5,
+      "episodeNumber": 9,
+      "productionSerialNumber": "40275-209",
+      "featureLength": false,
+      "stardateFrom": 45349.1,
+      "stardateTo": 45349.1,
+      "yearFrom": 2368,
+      "yearTo": 2368,
+      "usAirDate": "1991-11-18",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000064865",
+      "title": "A Matter of Perspective",
+      "titleGerman": "Riker unter Verdacht",
+      "titleItalian": null,
+      "titleJapanese": "疑惑のビーム",
+      "series": {
+        "uid": "SEMA0000062876",
+        "title": "Star Trek: The Next Generation"
+      },
+      "season": {
+        "uid": "SAMA0000001635",
+        "title": "TNG Season 3"
+      },
+      "seasonNumber": 3,
+      "episodeNumber": 14,
+      "productionSerialNumber": "40273-162",
+      "featureLength": false,
+      "stardateFrom": 43610.4,
+      "stardateTo": 43610.4,
+      "yearFrom": 2366,
+      "yearTo": 2366,
+      "usAirDate": "1990-02-12",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000276201",
+      "title": "A Moral Star, Part 1",
+      "titleGerman": "Rückkehr nach Tars Lamora, Teil I",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000242790",
+        "title": "Star Trek: Prodigy"
+      },
+      "season": {
+        "uid": "SAMA0000257714",
+        "title": "PRO Season 1"
+      },
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "productionSerialNumber": "109",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2383,
+      "yearTo": 2383,
+      "usAirDate": "2022-01-27",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000276392",
+      "title": "A Moral Star, Part 2",
+      "titleGerman": "Rückkehr nach Tars Lamora, Teil II",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000242790",
+        "title": "Star Trek: Prodigy"
+      },
+      "season": {
+        "uid": "SAMA0000257714",
+        "title": "PRO Season 1"
+      },
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "productionSerialNumber": "110",
+      "featureLength": false,
+      "stardateFrom": 61103.1,
+      "stardateTo": 61103.1,
+      "yearFrom": 2384,
+      "yearTo": 2384,
+      "usAirDate": "2022-02-03",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000003399",
+      "title": "A Night in Sickbay",
+      "titleGerman": "Eine Nacht Krankenstation",
+      "titleItalian": null,
+      "titleJapanese": "小さな生命の灯",
+      "series": {
+        "uid": "SEMA0000103435",
+        "title": "Star Trek: Enterprise"
+      },
+      "season": {
+        "uid": "SAMA0000001757",
+        "title": "ENT Season 2"
+      },
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "productionSerialNumber": "40358-030",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2152,
+      "yearTo": 2152,
+      "usAirDate": "2002-10-16",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000000461",
+      "title": "A Piece of the Action",
+      "titleGerman": "Epigonen",
+      "titleItalian": null,
+      "titleJapanese": "宇宙犯罪シンジケート",
+      "series": {
+        "uid": "SEMA0000097474",
+        "title": "Star Trek: The Original Series"
+      },
+      "season": {
+        "uid": "SAMA0000001733",
+        "title": "TOS Season 2"
+      },
+      "seasonNumber": 2,
+      "episodeNumber": 20,
+      "productionSerialNumber": "60349",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2268,
+      "yearTo": 2268,
+      "usAirDate": "1968-01-12",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000000457",
+      "title": "A Private Little War",
+      "titleGerman": "Der erste Krieg",
+      "titleItalian": null,
+      "titleJapanese": "カヌーソ・ノナの魔力",
+      "series": {
+        "uid": "SEMA0000097474",
+        "title": "Star Trek: The Original Series"
+      },
+      "season": {
+        "uid": "SAMA0000001733",
+        "title": "TOS Season 2"
+      },
+      "seasonNumber": 2,
+      "episodeNumber": 16,
+      "productionSerialNumber": "60345",
+      "featureLength": false,
+      "stardateFrom": 4211.4,
+      "stardateTo": 4211.4,
+      "yearFrom": 2268,
+      "yearTo": 2268,
+      "usAirDate": "1968-02-02",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000281768",
+      "title": "A Quality of Mercy",
+      "titleGerman": null,
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000255370",
+        "title": "Star Trek: Strange New Worlds"
+      },
+      "season": {
+        "uid": "SAMA0000255378",
+        "title": "SNW Season 1"
+      },
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "productionSerialNumber": "110",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": null,
+      "yearTo": null,
+      "usAirDate": "2022-07-07",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000000951",
+      "title": "A Simple Investigation",
+      "titleGerman": "Der Datenkristall",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000073238",
+        "title": "Star Trek: Deep Space Nine"
+      },
+      "season": {
+        "uid": "SAMA0000001739",
+        "title": "DS9 Season 5"
+      },
+      "seasonNumber": 5,
+      "episodeNumber": 17,
+      "productionSerialNumber": "40510-515",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2373,
+      "yearTo": 2373,
+      "usAirDate": "1997-03-31",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000000436",
+      "title": "A Taste of Armageddon",
+      "titleGerman": "Krieg der Computer",
+      "titleItalian": "Una guerra incredibile",
+      "titleJapanese": "コンピューター戦争",
+      "series": {
+        "uid": "SEMA0000097474",
+        "title": "Star Trek: The Original Series"
+      },
+      "season": {
+        "uid": "SAMA0000001732",
+        "title": "TOS Season 1"
+      },
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "productionSerialNumber": "6149-23",
+      "featureLength": false,
+      "stardateFrom": 3192.1,
+      "stardateTo": 3192.1,
+      "yearFrom": 2267,
+      "yearTo": 2267,
+      "usAirDate": "1967-02-23",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000000961",
+      "title": "A Time to Stand",
+      "titleGerman": "Zeit des Widerstands",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000073238",
+        "title": "Star Trek: Deep Space Nine"
+      },
+      "season": {
+        "uid": "SAMA0000001740",
+        "title": "DS9 Season 6"
+      },
+      "seasonNumber": 6,
+      "episodeNumber": 1,
+      "productionSerialNumber": "40510-525",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2374,
+      "yearTo": 2374,
+      "usAirDate": "1997-09-29",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000251557",
+      "title": "Absolute Candor",
+      "titleGerman": "Unbedingte Offenheit",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000238047",
+        "title": "Star Trek: Picard"
+      },
+      "season": {
+        "uid": "SAMA0000246418",
+        "title": "PIC Season 1"
+      },
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "productionSerialNumber": "103",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2399,
+      "yearTo": 2399,
+      "usAirDate": "2020-02-13",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000000925",
+      "title": "Accession",
+      "titleGerman": "Die Übernahme",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000073238",
+        "title": "Star Trek: Deep Space Nine"
+      },
+      "season": {
+        "uid": "SAMA0000001738",
+        "title": "DS9 Season 4"
+      },
+      "seasonNumber": 4,
+      "episodeNumber": 17,
+      "productionSerialNumber": "40510-489",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2372,
+      "yearTo": 2372,
+      "usAirDate": "1996-02-24",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000003100",
+      "title": "Acquisition",
+      "titleGerman": "Raumpiraten",
+      "titleItalian": null,
+      "titleJapanese": "獲物たちの罠",
+      "series": {
+        "uid": "SEMA0000103435",
+        "title": "Star Trek: Enterprise"
+      },
+      "season": {
+        "uid": "SAMA0000001756",
+        "title": "ENT Season 1"
+      },
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "productionSerialNumber": "40358-019",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2151,
+      "yearTo": 2151,
+      "usAirDate": "2002-03-27",
+      "finalScriptDate": "2002-01-14"
+    },
+    {
+      "uid": "EPMA0000013307",
+      "title": "Affliction",
+      "titleGerman": "Die Heimsuchung",
+      "titleItalian": null,
+      "titleJapanese": "クリンゴンの苦境",
+      "series": {
+        "uid": "SEMA0000103435",
+        "title": "Star Trek: Enterprise"
+      },
+      "season": {
+        "uid": "SAMA0000003604",
+        "title": "ENT Season 4"
+      },
+      "seasonNumber": 4,
+      "episodeNumber": 15,
+      "productionSerialNumber": "40358-091",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": null,
+      "yearTo": null,
+      "usAirDate": "2005-02-18",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000000987",
+      "title": "Afterimage",
+      "titleGerman": "Nachempfindung",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000073238",
+        "title": "Star Trek: Deep Space Nine"
+      },
+      "season": {
+        "uid": "SAMA0000001741",
+        "title": "DS9 Season 7"
+      },
+      "seasonNumber": 7,
+      "episodeNumber": 3,
+      "productionSerialNumber": "40510-553",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2375,
+      "yearTo": 2375,
+      "usAirDate": "1998-10-14",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000006966",
+      "title": "Albatross",
+      "titleGerman": "Dr. McCoy unter Anklage",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000034504",
+        "title": "Star Trek: The Animated Series"
+      },
+      "season": {
+        "uid": "SAMA0000000768",
+        "title": "TAS Season 2"
+      },
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "productionSerialNumber": "22019",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": null,
+      "yearTo": null,
+      "usAirDate": "1974-09-28",
+      "finalScriptDate": "1974-06-27"
+    },
+    {
+      "uid": "EPMA0000001579",
+      "title": "Alice",
+      "titleGerman": "Alice",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000000029",
+        "title": "Star Trek: Voyager"
+      },
+      "season": {
+        "uid": "SAMA0000001754",
+        "title": "VOY Season 6"
+      },
+      "seasonNumber": 6,
+      "episodeNumber": 5,
+      "productionSerialNumber": "40840-226",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2376,
+      "yearTo": 2376,
+      "usAirDate": "1999-10-20",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000001458",
+      "title": "All Good Things...",
+      "titleGerman": "Gestern, Heute, Morgen, Teil I",
+      "titleItalian": null,
+      "titleJapanese": "永遠への旅",
+      "series": {
+        "uid": "SEMA0000062876",
+        "title": "Star Trek: The Next Generation"
+      },
+      "season": {
+        "uid": "SAMA0000001639",
+        "title": "TNG Season 7"
+      },
+      "seasonNumber": 7,
+      "episodeNumber": 25,
+      "productionSerialNumber": "40277-747",
+      "featureLength": true,
+      "stardateFrom": 47988,
+      "stardateTo": 47988,
+      "yearFrom": 2370,
+      "yearTo": 2370,
+      "usAirDate": "1994-05-23",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000276601",
+      "title": "All In",
+      "titleGerman": "Alles oder nichts",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000201665",
+        "title": "Star Trek: Discovery"
+      },
+      "season": {
+        "uid": "SAMA0000254126",
+        "title": "DIS Season 4"
+      },
+      "seasonNumber": 4,
+      "episodeNumber": 8,
+      "productionSerialNumber": "408",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 3190,
+      "yearTo": 3190,
+      "usAirDate": "2022-02-10",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000274337",
+      "title": "All Is Possible",
+      "titleGerman": "Alles ist möglich",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000201665",
+        "title": "Star Trek: Discovery"
+      },
+      "season": {
+        "uid": "SAMA0000254126",
+        "title": "DIS Season 4"
+      },
+      "seasonNumber": 4,
+      "episodeNumber": 4,
+      "productionSerialNumber": "404",
+      "featureLength": false,
+      "stardateFrom": 865661.2,
+      "stardateTo": 865661.2,
+      "yearFrom": 3190,
+      "yearTo": 3190,
+      "usAirDate": "2021-12-09",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000000493",
+      "title": "All Our Yesterdays",
+      "titleGerman": "Portal in die Vergangenheit",
+      "titleItalian": "Un tuffo nel passato",
+      "titleJapanese": "タイムマシンの危機",
+      "series": {
+        "uid": "SEMA0000097474",
+        "title": "Star Trek: The Original Series"
+      },
+      "season": {
+        "uid": "SAMA0000001734",
+        "title": "TOS Season 3"
+      },
+      "seasonNumber": 3,
+      "episodeNumber": 23,
+      "productionSerialNumber": "60043-78",
+      "featureLength": false,
+      "stardateFrom": 5943.7,
+      "stardateTo": 5943.7,
+      "yearFrom": 2269,
+      "yearTo": 2269,
+      "usAirDate": "1969-03-14",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000281615",
+      "title": "All Those Who Wander",
+      "titleGerman": "Alle, die wandern",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000255370",
+        "title": "Star Trek: Strange New Worlds"
+      },
+      "season": {
+        "uid": "SAMA0000255378",
+        "title": "SNW Season 1"
+      },
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "productionSerialNumber": "109",
+      "featureLength": false,
+      "stardateFrom": 2510.6,
+      "stardateTo": 2510.6,
+      "yearFrom": 2259,
+      "yearTo": 2259,
+      "usAirDate": "2022-06-30",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000284291",
+      "title": "All the World's a Stage",
+      "titleGerman": "Die ganze Welt ist eine Bühne",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000242790",
+        "title": "Star Trek: Prodigy"
+      },
+      "season": {
+        "uid": "SAMA0000257714",
+        "title": "PRO Season 1"
+      },
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "productionSerialNumber": "113",
+      "featureLength": false,
+      "stardateFrom": 61296.9,
+      "stardateTo": 61296.9,
+      "yearFrom": 2384,
+      "yearTo": 2384,
+      "usAirDate": "2022-11-10",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000001351",
+      "title": "Allegiance",
+      "titleGerman": "Versuchskaninchen",
+      "titleItalian": null,
+      "titleJapanese": "姿なき誘拐犯",
+      "series": {
+        "uid": "SEMA0000062876",
+        "title": "Star Trek: The Next Generation"
+      },
+      "season": {
+        "uid": "SAMA0000001635",
+        "title": "TNG Season 3"
+      },
+      "seasonNumber": 3,
+      "episodeNumber": 18,
+      "productionSerialNumber": "40273-166",
+      "featureLength": false,
+      "stardateFrom": 43714.1,
+      "stardateTo": 43714.1,
+      "yearFrom": 2366,
+      "yearTo": 2366,
+      "usAirDate": "1990-03-26",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000001488",
+      "title": "Alliances",
+      "titleGerman": "Allianzen",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000000029",
+        "title": "Star Trek: Voyager"
+      },
+      "season": {
+        "uid": "SAMA0000001743",
+        "title": "VOY Season 2"
+      },
+      "seasonNumber": 2,
+      "episodeNumber": 14,
+      "productionSerialNumber": "40840-131",
+      "featureLength": false,
+      "stardateFrom": 49337.4,
+      "stardateTo": 49337.4,
+      "yearFrom": 2372,
+      "yearTo": 2372,
+      "usAirDate": "1996-01-22",
+      "finalScriptDate": "1995-10-18"
+    },
+    {
+      "uid": "EPMA0000001513",
+      "title": "Alter Ego",
+      "titleGerman": "Das andere Ego",
+      "titleItalian": "Un amore impossibile",
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000000029",
+        "title": "Star Trek: Voyager"
+      },
+      "season": {
+        "uid": "SAMA0000001744",
+        "title": "VOY Season 3"
+      },
+      "seasonNumber": 3,
+      "episodeNumber": 14,
+      "productionSerialNumber": "40840-155",
+      "featureLength": false,
+      "stardateFrom": 50460.3,
+      "stardateTo": 50460.3,
+      "yearFrom": 2373,
+      "yearTo": 2373,
+      "usAirDate": "1997-01-15",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000000446",
+      "title": "Amok Time",
+      "titleGerman": "Weltraumfieber",
+      "titleItalian": "Il duello",
+      "titleJapanese": "バルカン星人の秘密",
+      "series": {
+        "uid": "SEMA0000097474",
+        "title": "Star Trek: The Original Series"
+      },
+      "season": {
+        "uid": "SAMA0000001733",
+        "title": "TOS Season 2"
+      },
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "productionSerialNumber": "60334 (5149-34)",
+      "featureLength": false,
+      "stardateFrom": 3372.7,
+      "stardateTo": 3372.7,
+      "yearFrom": 2267,
+      "yearTo": 2267,
+      "usAirDate": "1967-09-15",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000271368",
+      "title": "An Embarrassment Of Dooplers",
+      "titleGerman": "Die Doopler-Verwirrung",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000240166",
+        "title": "Star Trek: Lower Decks"
+      },
+      "season": {
+        "uid": "SAMA0000250142",
+        "title": "LD Season 2"
+      },
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "productionSerialNumber": "LD-2005",
+      "featureLength": false,
+      "stardateFrom": 58053.9,
+      "stardateTo": 58053.9,
+      "yearFrom": 2381,
+      "yearTo": 2381,
+      "usAirDate": "2021-09-09",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000242720",
+      "title": "An Obol for Charon",
+      "titleGerman": "Der Charonspfennig",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000201665",
+        "title": "Star Trek: Discovery"
+      },
+      "season": {
+        "uid": "SAMA0000229213",
+        "title": "DIS Season 2"
+      },
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "productionSerialNumber": "204",
+      "featureLength": false,
+      "stardateFrom": 1834.2512,
+      "stardateTo": 1834.2512,
+      "yearFrom": 2257,
+      "yearTo": 2257,
+      "usAirDate": "2019-02-07",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000000472",
+      "title": "And the Children Shall Lead",
+      "titleGerman": "Kurs auf Marcus 12",
+      "titleItalian": "Sul pianeta Triacon",
+      "titleJapanese": "悪魔の弟子達",
+      "series": {
+        "uid": "SEMA0000097474",
+        "title": "Star Trek: The Original Series"
+      },
+      "season": {
+        "uid": "SAMA0000001734",
+        "title": "TOS Season 3"
+      },
+      "seasonNumber": 3,
+      "episodeNumber": 5,
+      "productionSerialNumber": "60043-60",
+      "featureLength": false,
+      "stardateFrom": 5029.5,
+      "stardateTo": 5029.5,
+      "yearFrom": 2268,
+      "yearTo": 2268,
+      "usAirDate": "1968-10-11",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000000504",
+      "title": "Angel One",
+      "titleGerman": "Planet Angel One",
+      "titleItalian": null,
+      "titleJapanese": "奪われた女神達の惑星",
+      "series": {
+        "uid": "SEMA0000062876",
+        "title": "Star Trek: The Next Generation"
+      },
+      "season": {
+        "uid": "SAMA0000001633",
+        "title": "TNG Season 1"
+      },
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "productionSerialNumber": "40271-115",
+      "featureLength": false,
+      "stardateFrom": 41636.9,
+      "stardateTo": 41636.9,
+      "yearFrom": 2364,
+      "yearTo": 2364,
+      "usAirDate": "1988-01-25",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000274335",
+      "title": "Anomaly",
+      "titleGerman": "Anomalie",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000201665",
+        "title": "Star Trek: Discovery"
+      },
+      "season": {
+        "uid": "SAMA0000254126",
+        "title": "DIS Season 4"
+      },
+      "seasonNumber": 4,
+      "episodeNumber": 2,
+      "productionSerialNumber": "402",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 3190,
+      "yearTo": 3190,
+      "usAirDate": "2021-11-25",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000002814",
+      "title": "Anomaly",
+      "titleGerman": "Anomalie",
+      "titleItalian": null,
+      "titleJapanese": "オサーリア人の襲撃",
+      "series": {
+        "uid": "SEMA0000103435",
+        "title": "Star Trek: Enterprise"
+      },
+      "season": {
+        "uid": "SAMA0000001758",
+        "title": "ENT Season 3"
+      },
+      "seasonNumber": 3,
+      "episodeNumber": 2,
+      "productionSerialNumber": "40358-054",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2153,
+      "yearTo": 2153,
+      "usAirDate": "2003-09-17",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000000935",
+      "title": "Apocalypse Rising",
+      "titleGerman": "Die Apokalypse droht",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000073238",
+        "title": "Star Trek: Deep Space Nine"
+      },
+      "season": {
+        "uid": "SAMA0000001739",
+        "title": "DS9 Season 5"
+      },
+      "seasonNumber": 5,
+      "episodeNumber": 1,
+      "productionSerialNumber": "40510-499",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2373,
+      "yearTo": 2373,
+      "usAirDate": "1996-09-30",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000001421",
+      "title": "Aquiel",
+      "titleGerman": "Aquiel",
+      "titleItalian": null,
+      "titleJapanese": "謎の蒸発事件",
+      "series": {
+        "uid": "SEMA0000062876",
+        "title": "Star Trek: The Next Generation"
+      },
+      "season": {
+        "uid": "SAMA0000001638",
+        "title": "TNG Season 6"
+      },
+      "seasonNumber": 6,
+      "episodeNumber": 13,
+      "productionSerialNumber": "40276-239",
+      "featureLength": false,
+      "stardateFrom": 46461.3,
+      "stardateTo": 46461.3,
+      "yearFrom": 2369,
+      "yearTo": 2369,
+      "usAirDate": "1993-02-01",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000000432",
+      "title": "Arena",
+      "titleGerman": "Ganz neue Dimensionen",
+      "titleItalian": null,
+      "titleJapanese": "怪獣ゴーンとの対決",
+      "series": {
+        "uid": "SEMA0000097474",
+        "title": "Star Trek: The Original Series"
+      },
+      "season": {
+        "uid": "SAMA0000001732",
+        "title": "TOS Season 1"
+      },
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "productionSerialNumber": "6149-19",
+      "featureLength": false,
+      "stardateFrom": 3045.6,
+      "stardateTo": 3045.6,
+      "yearFrom": 2267,
+      "yearTo": 2267,
+      "usAirDate": "1967-01-19",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000038489",
+      "title": "Armageddon Game",
+      "titleGerman": "Das Harvester-Desaster",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000073238",
+        "title": "Star Trek: Deep Space Nine"
+      },
+      "season": {
+        "uid": "SAMA0000001736",
+        "title": "DS9 Season 2"
+      },
+      "seasonNumber": 2,
+      "episodeNumber": 13,
+      "productionSerialNumber": "40512-433",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2370,
+      "yearTo": 2370,
+      "usAirDate": "1994-01-30",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000001592",
+      "title": "Ashes to Ashes",
+      "titleGerman": "Asche zu Asche",
+      "titleItalian": null,
+      "titleJapanese": "帰らざる時間",
+      "series": {
+        "uid": "SEMA0000000029",
+        "title": "Star Trek: Voyager"
+      },
+      "season": {
+        "uid": "SAMA0000001754",
+        "title": "VOY Season 6"
+      },
+      "seasonNumber": 6,
+      "episodeNumber": 18,
+      "productionSerialNumber": "40840-238",
+      "featureLength": false,
+      "stardateFrom": 53679.4,
+      "stardateTo": 53679.4,
+      "yearFrom": 2376,
+      "yearTo": 2376,
+      "usAirDate": "2000-03-01",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000074816",
+      "title": "Assignment: Earth",
+      "titleGerman": "Ein Planet genannt Erde",
+      "titleItalian": null,
+      "titleJapanese": "宇宙からの使者 Mr.セブン",
+      "series": {
+        "uid": "SEMA0000097474",
+        "title": "Star Trek: The Original Series"
+      },
+      "season": {
+        "uid": "SAMA0000001733",
+        "title": "TOS Season 2"
+      },
+      "seasonNumber": 2,
+      "episodeNumber": 26,
+      "productionSerialNumber": "60355",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 1968,
+      "yearTo": 1968,
+      "usAirDate": "1968-03-29",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000278226",
+      "title": "Assimilation",
+      "titleGerman": null,
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000238047",
+        "title": "Star Trek: Picard"
+      },
+      "season": {
+        "uid": "SAMA0000250097",
+        "title": "PIC Season 2"
+      },
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "productionSerialNumber": "203",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": null,
+      "yearTo": null,
+      "usAirDate": "2022-03-17",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000284043",
+      "title": "Asylum",
+      "titleGerman": "Asyl_",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000242790",
+        "title": "Star Trek: Prodigy"
+      },
+      "season": {
+        "uid": "SAMA0000257714",
+        "title": "PRO Season 1"
+      },
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "productionSerialNumber": "111",
+      "featureLength": false,
+      "stardateFrom": 61209.5,
+      "stardateTo": 61209.5,
+      "yearFrom": 2384,
+      "yearTo": 2384,
+      "usAirDate": "2022-10-27",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000001442",
+      "title": "Attached",
+      "titleGerman": "Kontakte",
+      "titleItalian": null,
+      "titleJapanese": "混迷の惑星ケスプリット",
+      "series": {
+        "uid": "SEMA0000062876",
+        "title": "Star Trek: The Next Generation"
+      },
+      "season": {
+        "uid": "SAMA0000001639",
+        "title": "TNG Season 7"
+      },
+      "seasonNumber": 7,
+      "episodeNumber": 8,
+      "productionSerialNumber": "40277-260",
+      "featureLength": false,
+      "stardateFrom": 47304.2,
+      "stardateTo": 47304.2,
+      "yearFrom": 2370,
+      "yearTo": 2370,
+      "usAirDate": "1993-11-08",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000001620",
+      "title": "Author, Author",
+      "titleGerman": "Die Veröffentlichung",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000000029",
+        "title": "Star Trek: Voyager"
+      },
+      "season": {
+        "uid": "SAMA0000001755",
+        "title": "VOY Season 7"
+      },
+      "seasonNumber": 7,
+      "episodeNumber": 20,
+      "productionSerialNumber": "40840-266",
+      "featureLength": false,
+      "stardateFrom": 54732.3,
+      "stardateTo": 54732.3,
+      "yearFrom": 2378,
+      "yearTo": 2378,
+      "usAirDate": "2001-04-18",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000009981",
+      "title": "Awakening",
+      "titleGerman": "Zeit des Erwachens",
+      "titleItalian": "Risvegli",
+      "titleJapanese": "陰謀の嵐",
+      "series": {
+        "uid": "SEMA0000103435",
+        "title": "Star Trek: Enterprise"
+      },
+      "season": {
+        "uid": "SAMA0000003604",
+        "title": "ENT Season 4"
+      },
+      "seasonNumber": 4,
+      "episodeNumber": 8,
+      "productionSerialNumber": "40358-084",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2154,
+      "yearTo": 2154,
+      "usAirDate": "2004-11-26",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000001986",
+      "title": "Azati Prime",
+      "titleGerman": "Azati Prime",
+      "titleItalian": null,
+      "titleJapanese": "爬虫類族の攻撃",
+      "series": {
+        "uid": "SEMA0000103435",
+        "title": "Star Trek: Enterprise"
+      },
+      "season": {
+        "uid": "SAMA0000001758",
+        "title": "ENT Season 3"
+      },
+      "seasonNumber": 3,
+      "episodeNumber": 18,
+      "productionSerialNumber": "40358-070",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2154,
+      "yearTo": 2154,
+      "usAirDate": "2004-03-03",
+      "finalScriptDate": "2003-12-18"
+    },
+    {
+      "uid": "EPMA0000001105",
+      "title": "Babel",
+      "titleGerman": "Babel",
+      "titleItalian": null,
+      "titleJapanese": "恐怖のウイルス",
+      "series": {
+        "uid": "SEMA0000073238",
+        "title": "Star Trek: Deep Space Nine"
+      },
+      "season": {
+        "uid": "SAMA0000001735",
+        "title": "DS9 Season 1"
+      },
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "productionSerialNumber": "40511-405",
+      "featureLength": false,
+      "stardateFrom": 46423.7,
+      "stardateTo": 46423.7,
+      "yearFrom": 2369,
+      "yearTo": 2369,
+      "usAirDate": "1993-01-24",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000011330",
+      "title": "Babel One",
+      "titleGerman": "Babel",
+      "titleItalian": null,
+      "titleJapanese": "バベル1号星",
+      "series": {
+        "uid": "SEMA0000103435",
+        "title": "Star Trek: Enterprise"
+      },
+      "season": {
+        "uid": "SAMA0000003604",
+        "title": "ENT Season 4"
+      },
+      "seasonNumber": 4,
+      "episodeNumber": 12,
+      "productionSerialNumber": "40358-088",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": null,
+      "yearTo": null,
+      "usAirDate": "2005-01-28",
+      "finalScriptDate": "2004-11-01"
+    },
+    {
+      "uid": "EPMA0000000999",
+      "title": "Badda-Bing, Badda-Bang",
+      "titleGerman": "Badda-Bing, Badda-Bang",
+      "titleItalian": null,
+      "titleJapanese": "アドリブ作戦で行こう！",
+      "series": {
+        "uid": "SEMA0000073238",
+        "title": "Star Trek: Deep Space Nine"
+      },
+      "season": {
+        "uid": "SAMA0000001741",
+        "title": "DS9 Season 7"
+      },
+      "seasonNumber": 7,
+      "episodeNumber": 15,
+      "productionSerialNumber": "40510-566",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2375,
+      "yearTo": 2375,
+      "usAirDate": "1999-02-24",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000000134",
+      "title": "Balance of Terror",
+      "titleGerman": "Spock unter Verdacht",
+      "titleItalian": "La navicella invisibile",
+      "titleJapanese": "宇宙基地SOS",
+      "series": {
+        "uid": "SEMA0000097474",
+        "title": "Star Trek: The Original Series"
+      },
+      "season": {
+        "uid": "SAMA0000001732",
+        "title": "TOS Season 1"
+      },
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "productionSerialNumber": "6149-09",
+      "featureLength": false,
+      "stardateFrom": 1701.8,
+      "stardateTo": 1701.8,
+      "yearFrom": 2266,
+      "yearTo": 2266,
+      "usAirDate": "1966-12-15",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000000924",
+      "title": "Bar Association",
+      "titleGerman": "Der Streik",
+      "titleItalian": null,
+      "titleJapanese": "ロムの反乱",
+      "series": {
+        "uid": "SEMA0000073238",
+        "title": "Star Trek: Deep Space Nine"
+      },
+      "season": {
+        "uid": "SAMA0000001738",
+        "title": "DS9 Season 4"
+      },
+      "seasonNumber": 4,
+      "episodeNumber": 16,
+      "productionSerialNumber": "40510-488",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2372,
+      "yearTo": 2372,
+      "usAirDate": "1996-02-19",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000001577",
+      "title": "Barge of the Dead",
+      "titleGerman": "Die Barke der Toten",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000000029",
+        "title": "Star Trek: Voyager"
+      },
+      "season": {
+        "uid": "SAMA0000001754",
+        "title": "VOY Season 6"
+      },
+      "seasonNumber": 6,
+      "episodeNumber": 3,
+      "productionSerialNumber": "40840-223",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2376,
+      "yearTo": 2376,
+      "usAirDate": "1999-10-06",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000001499",
+      "title": "Basics, Part I",
+      "titleGerman": "Der Kampf ums Dasein, Teil I",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000000029",
+        "title": "Star Trek: Voyager"
+      },
+      "season": {
+        "uid": "SAMA0000001743",
+        "title": "VOY Season 2"
+      },
+      "seasonNumber": 2,
+      "episodeNumber": 26,
+      "productionSerialNumber": "40840-142",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2372,
+      "yearTo": 2372,
+      "usAirDate": "1996-05-20",
+      "finalScriptDate": "1996-02-23"
+    },
+    {
+      "uid": "EPMA0000001500",
+      "title": "Basics, Part II",
+      "titleGerman": "Der Kampf ums Dasein, Teil II",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000000029",
+        "title": "Star Trek: Voyager"
+      },
+      "season": {
+        "uid": "SAMA0000001744",
+        "title": "VOY Season 3"
+      },
+      "seasonNumber": 3,
+      "episodeNumber": 1,
+      "productionSerialNumber": "40840-146",
+      "featureLength": false,
+      "stardateFrom": 50032.7,
+      "stardateTo": 50032.7,
+      "yearFrom": 2372,
+      "yearTo": 2373,
+      "usAirDate": "1996-09-04",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000000851",
+      "title": "Battle Lines",
+      "titleGerman": "Die Prophezeiung",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000073238",
+        "title": "Star Trek: Deep Space Nine"
+      },
+      "season": {
+        "uid": "SAMA0000001735",
+        "title": "DS9 Season 1"
+      },
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "productionSerialNumber": "40511-413",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2369,
+      "yearTo": 2369,
+      "usAirDate": "1993-04-25",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000226101",
+      "title": "Battle at the Binary Stars",
+      "titleGerman": "Das Urteil",
+      "titleItalian": null,
+      "titleJapanese": "連星系の戦い",
+      "series": {
+        "uid": "SEMA0000201665",
+        "title": "Star Trek: Discovery"
+      },
+      "season": {
+        "uid": "SAMA0000212566",
+        "title": "DIS Season 1"
+      },
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "productionSerialNumber": "102",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": null,
+      "yearTo": null,
+      "usAirDate": "2017-09-24",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000001520",
+      "title": "Before and After",
+      "titleGerman": "Temporale Sprünge",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000000029",
+        "title": "Star Trek: Voyager"
+      },
+      "season": {
+        "uid": "SAMA0000001744",
+        "title": "VOY Season 3"
+      },
+      "seasonNumber": 3,
+      "episodeNumber": 21,
+      "productionSerialNumber": "40840-163",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2373,
+      "yearTo": 2373,
+      "usAirDate": "1997-04-09",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000000964",
+      "title": "Behind the Lines",
+      "titleGerman": "Hinter der Linie",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000073238",
+        "title": "Star Trek: Deep Space Nine"
+      },
+      "season": {
+        "uid": "SAMA0000001740",
+        "title": "DS9 Season 6"
+      },
+      "seasonNumber": 6,
+      "episodeNumber": 4,
+      "productionSerialNumber": "40510-528",
+      "featureLength": false,
+      "stardateFrom": 51145.3,
+      "stardateTo": 51145.3,
+      "yearFrom": 2374,
+      "yearTo": 2374,
+      "usAirDate": "1997-10-20",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000006964",
+      "title": "Bem",
+      "titleGerman": "Gefährliche Prüfung",
+      "titleItalian": "Il comandante Bem",
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000034504",
+        "title": "Star Trek: The Animated Series"
+      },
+      "season": {
+        "uid": "SAMA0000000768",
+        "title": "TAS Season 2"
+      },
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "productionSerialNumber": "22018",
+      "featureLength": false,
+      "stardateFrom": 7403.6,
+      "stardateTo": 7403.6,
+      "yearFrom": 2270,
+      "yearTo": 2270,
+      "usAirDate": "1974-09-14",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000000069",
+      "title": "Beyond the Farthest Star",
+      "titleGerman": "Das körperlose Wesen",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000034504",
+        "title": "Star Trek: The Animated Series"
+      },
+      "season": {
+        "uid": "SAMA0000000767",
+        "title": "TAS Season 1"
+      },
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "productionSerialNumber": "22004",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": null,
+      "yearTo": null,
+      "usAirDate": "1973-09-08",
+      "finalScriptDate": "1973-05-10"
+    },
+    {
+      "uid": "EPMA0000001423",
+      "title": "Birthright, Part I",
+      "titleGerman": "Der Moment der Erkenntnis, Teil I",
+      "titleItalian": "La voce del sangue - prima parte",
+      "titleJapanese": "バースライト・前編",
+      "series": {
+        "uid": "SEMA0000062876",
+        "title": "Star Trek: The Next Generation"
+      },
+      "season": {
+        "uid": "SAMA0000001638",
+        "title": "TNG Season 6"
+      },
+      "seasonNumber": 6,
+      "episodeNumber": 16,
+      "productionSerialNumber": "40276-242",
+      "featureLength": false,
+      "stardateFrom": 46578.4,
+      "stardateTo": 46578.4,
+      "yearFrom": 2369,
+      "yearTo": 2369,
+      "usAirDate": "1993-02-22",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000001424",
+      "title": "Birthright, Part II",
+      "titleGerman": "Der Moment der Erkenntnis, Teil II",
+      "titleItalian": null,
+      "titleJapanese": "バースライト・後編",
+      "series": {
+        "uid": "SEMA0000062876",
+        "title": "Star Trek: The Next Generation"
+      },
+      "season": {
+        "uid": "SAMA0000001638",
+        "title": "TNG Season 6"
+      },
+      "seasonNumber": 6,
+      "episodeNumber": 17,
+      "productionSerialNumber": "40276-243",
+      "featureLength": false,
+      "stardateFrom": 46579.2,
+      "stardateTo": 46579.2,
+      "yearFrom": 2369,
+      "yearTo": 2369,
+      "usAirDate": "1993-03-01",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000000957",
+      "title": "Blaze of Glory",
+      "titleGerman": "Glanz des Ruhms",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000073238",
+        "title": "Star Trek: Deep Space Nine"
+      },
+      "season": {
+        "uid": "SAMA0000001739",
+        "title": "DS9 Season 5"
+      },
+      "seasonNumber": 5,
+      "episodeNumber": 23,
+      "productionSerialNumber": "40510-521",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2373,
+      "yearTo": 2373,
+      "usAirDate": "1997-05-12",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000001586",
+      "title": "Blink of an Eye",
+      "titleGerman": "Es geschah in einem Augenblick",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000000029",
+        "title": "Star Trek: Voyager"
+      },
+      "season": {
+        "uid": "SAMA0000001754",
+        "title": "VOY Season 6"
+      },
+      "seasonNumber": 6,
+      "episodeNumber": 12,
+      "productionSerialNumber": "40840-233",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2376,
+      "yearTo": 2376,
+      "usAirDate": "2000-01-19",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000001564",
+      "title": "Bliss",
+      "titleGerman": "Euphorie",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000000029",
+        "title": "Star Trek: Voyager"
+      },
+      "season": {
+        "uid": "SAMA0000001753",
+        "title": "VOY Season 5"
+      },
+      "seasonNumber": 5,
+      "episodeNumber": 14,
+      "productionSerialNumber": "40840-209",
+      "featureLength": false,
+      "stardateFrom": 52542.3,
+      "stardateTo": 52542.3,
+      "yearFrom": 2375,
+      "yearTo": 2375,
+      "usAirDate": "1999-02-10",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000001515",
+      "title": "Blood Fever",
+      "titleGerman": "Pon Farr",
+      "titleItalian": "La febbre del sangue",
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000000029",
+        "title": "Star Trek: Voyager"
+      },
+      "season": {
+        "uid": "SAMA0000001744",
+        "title": "VOY Season 3"
+      },
+      "seasonNumber": 3,
+      "episodeNumber": 16,
+      "productionSerialNumber": "40840-157",
+      "featureLength": false,
+      "stardateFrom": 50537.2,
+      "stardateTo": 50537.2,
+      "yearFrom": 2373,
+      "yearTo": 2373,
+      "usAirDate": "1997-02-05",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000000878",
+      "title": "Blood Oath",
+      "titleGerman": "Der Blutschwur",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000073238",
+        "title": "Star Trek: Deep Space Nine"
+      },
+      "season": {
+        "uid": "SAMA0000001736",
+        "title": "DS9 Season 2"
+      },
+      "seasonNumber": 2,
+      "episodeNumber": 19,
+      "productionSerialNumber": "40512-439",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2370,
+      "yearTo": 2370,
+      "usAirDate": "1994-03-27",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000001455",
+      "title": "Bloodlines",
+      "titleGerman": "Boks Vergeltung",
+      "titleItalian": null,
+      "titleJapanese": "怨讐の彼方に",
+      "series": {
+        "uid": "SEMA0000062876",
+        "title": "Star Trek: The Next Generation"
+      },
+      "season": {
+        "uid": "SAMA0000001639",
+        "title": "TNG Season 7"
+      },
+      "seasonNumber": 7,
+      "episodeNumber": 22,
+      "productionSerialNumber": "40277-274",
+      "featureLength": false,
+      "stardateFrom": 47829.1,
+      "stardateTo": 47829.1,
+      "yearFrom": 2370,
+      "yearTo": 2370,
+      "usAirDate": "1994-05-02",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000000933",
+      "title": "Body Parts",
+      "titleGerman": "Quarks Schicksal",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000073238",
+        "title": "Star Trek: Deep Space Nine"
+      },
+      "season": {
+        "uid": "SAMA0000001738",
+        "title": "DS9 Season 4"
+      },
+      "seasonNumber": 4,
+      "episodeNumber": 25,
+      "productionSerialNumber": "40510-497",
+      "featureLength": false,
+      "stardateFrom": 49930.3,
+      "stardateTo": 49930.3,
+      "yearFrom": 2372,
+      "yearTo": 2372,
+      "usAirDate": "1996-06-10",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000001607",
+      "title": "Body and Soul",
+      "titleGerman": "Körper und Seele",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000000029",
+        "title": "Star Trek: Voyager"
+      },
+      "season": {
+        "uid": "SAMA0000001755",
+        "title": "VOY Season 7"
+      },
+      "seasonNumber": 7,
+      "episodeNumber": 7,
+      "productionSerialNumber": "40840-255",
+      "featureLength": false,
+      "stardateFrom": 54238.3,
+      "stardateTo": 54238.3,
+      "yearFrom": 2377,
+      "yearTo": 2377,
+      "usAirDate": "2000-11-15",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000001340",
+      "title": "Booby Trap",
+      "titleGerman": "Die Energiefalle",
+      "titleItalian": "Trappola spaziale",
+      "titleJapanese": "メンサー星人の罠",
+      "series": {
+        "uid": "SEMA0000062876",
+        "title": "Star Trek: The Next Generation"
+      },
+      "season": {
+        "uid": "SAMA0000001635",
+        "title": "TNG Season 3"
+      },
+      "seasonNumber": 3,
+      "episodeNumber": 6,
+      "productionSerialNumber": "40273-154",
+      "featureLength": false,
+      "stardateFrom": 43205.6,
+      "stardateTo": 43205.6,
+      "yearFrom": 2366,
+      "yearTo": 2366,
+      "usAirDate": "1989-10-30",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000007252",
+      "title": "Borderland",
+      "titleGerman": "Borderland",
+      "titleItalian": "Terra di confine",
+      "titleJapanese": "ボーダーランド",
+      "series": {
+        "uid": "SEMA0000103435",
+        "title": "Star Trek: Enterprise"
+      },
+      "season": {
+        "uid": "SAMA0000003604",
+        "title": "ENT Season 4"
+      },
+      "seasonNumber": 4,
+      "episodeNumber": 4,
+      "productionSerialNumber": "40358-080",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": null,
+      "yearTo": null,
+      "usAirDate": "2004-10-29",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000014329",
+      "title": "Bound",
+      "titleGerman": "Die Verbindung",
+      "titleItalian": "Le schiave di Orione",
+      "titleJapanese": "誘惑の甘い罠",
+      "series": {
+        "uid": "SEMA0000103435",
+        "title": "Star Trek: Enterprise"
+      },
+      "season": {
+        "uid": "SAMA0000003604",
+        "title": "ENT Season 4"
+      },
+      "seasonNumber": 4,
+      "episodeNumber": 17,
+      "productionSerialNumber": "40358-093",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": null,
+      "yearTo": null,
+      "usAirDate": "2005-04-15",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000003494",
+      "title": "Bounty",
+      "titleGerman": "Kopfgeld",
+      "titleItalian": null,
+      "titleJapanese": "狙われた首",
+      "series": {
+        "uid": "SEMA0000103435",
+        "title": "Star Trek: Enterprise"
+      },
+      "season": {
+        "uid": "SAMA0000001757",
+        "title": "ENT Season 2"
+      },
+      "seasonNumber": 2,
+      "episodeNumber": 25,
+      "productionSerialNumber": "40358-051",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2153,
+      "yearTo": 2153,
+      "usAirDate": "2003-05-14",
+      "finalScriptDate": "2003-03-07"
+    },
+    {
+      "uid": "EPMA0000000455",
+      "title": "Bread and Circuses",
+      "titleGerman": "Brot und Spiele",
+      "titleItalian": null,
+      "titleJapanese": "もう一つの地球",
+      "series": {
+        "uid": "SEMA0000097474",
+        "title": "Star Trek: The Original Series"
+      },
+      "season": {
+        "uid": "SAMA0000001733",
+        "title": "TOS Season 2"
+      },
+      "seasonNumber": 2,
+      "episodeNumber": 14,
+      "productionSerialNumber": "60343",
+      "featureLength": false,
+      "stardateFrom": 4040.7,
+      "stardateTo": 4040.7,
+      "yearFrom": 2268,
+      "yearTo": 2268,
+      "usAirDate": "1968-03-15",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000001020",
+      "title": "Breaking the Ice",
+      "titleGerman": "Das Eis bricht",
+      "titleItalian": null,
+      "titleJapanese": "彗星は去り行くとも",
+      "series": {
+        "uid": "SEMA0000103435",
+        "title": "Star Trek: Enterprise"
+      },
+      "season": {
+        "uid": "SAMA0000001756",
+        "title": "ENT Season 1"
+      },
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "productionSerialNumber": "40358-008",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2151,
+      "yearTo": 2151,
+      "usAirDate": "2001-11-07",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000001562",
+      "title": "Bride of Chaotica!",
+      "titleGerman": "Chaoticas Braut",
+      "titleItalian": "La sposa di Chaotica",
+      "titleJapanese": "侵略されたホロデッキ",
+      "series": {
+        "uid": "SEMA0000000029",
+        "title": "Star Trek: Voyager"
+      },
+      "season": {
+        "uid": "SAMA0000001753",
+        "title": "VOY Season 5"
+      },
+      "seasonNumber": 5,
+      "episodeNumber": 12,
+      "productionSerialNumber": "40840-207",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2375,
+      "yearTo": 2375,
+      "usAirDate": "1999-01-27",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000001014",
+      "title": "Broken Bow",
+      "titleGerman": "Aufbruch ins Unbekannte, Teil I",
+      "titleItalian": "Prima missione",
+      "titleJapanese": "夢への旅立ち",
+      "series": {
+        "uid": "SEMA0000103435",
+        "title": "Star Trek: Enterprise"
+      },
+      "season": {
+        "uid": "SAMA0000001756",
+        "title": "ENT Season 1"
+      },
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "productionSerialNumber": "40358-721",
+      "featureLength": true,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": null,
+      "yearTo": null,
+      "usAirDate": "2001-09-26",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000000934",
+      "title": "Broken Link",
+      "titleGerman": "Das Urteil",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000073238",
+        "title": "Star Trek: Deep Space Nine"
+      },
+      "season": {
+        "uid": "SAMA0000001738",
+        "title": "DS9 Season 4"
+      },
+      "seasonNumber": 4,
+      "episodeNumber": 26,
+      "productionSerialNumber": "40510-498",
+      "featureLength": false,
+      "stardateFrom": 49962.4,
+      "stardateTo": 49962.4,
+      "yearFrom": 2372,
+      "yearTo": 2372,
+      "usAirDate": "1996-06-17",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000252564",
+      "title": "Broken Pieces",
+      "titleGerman": "Bruchstücke",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000238047",
+        "title": "Star Trek: Picard"
+      },
+      "season": {
+        "uid": "SAMA0000246418",
+        "title": "PIC Season 1"
+      },
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "productionSerialNumber": "107",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2399,
+      "yearTo": 2399,
+      "usAirDate": "2020-03-12",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000241783",
+      "title": "Brother",
+      "titleGerman": "Bruder",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000201665",
+        "title": "Star Trek: Discovery"
+      },
+      "season": {
+        "uid": "SAMA0000229213",
+        "title": "DIS Season 2"
+      },
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "productionSerialNumber": "201",
+      "featureLength": false,
+      "stardateFrom": 1025.19,
+      "stardateTo": 1025.19,
+      "yearFrom": 2257,
+      "yearTo": 2257,
+      "usAirDate": "2019-01-17",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000001361",
+      "title": "Brothers",
+      "titleGerman": "Die ungleichen Brüder",
+      "titleItalian": "Fratelli",
+      "titleJapanese": "永遠の絆",
+      "series": {
+        "uid": "SEMA0000062876",
+        "title": "Star Trek: The Next Generation"
+      },
+      "season": {
+        "uid": "SAMA0000001636",
+        "title": "TNG Season 4"
+      },
+      "seasonNumber": 4,
+      "episodeNumber": 3,
+      "productionSerialNumber": "40274-177",
+      "featureLength": false,
+      "stardateFrom": 44085.7,
+      "stardateTo": 44085.7,
+      "yearFrom": 2367,
+      "yearTo": 2367,
+      "usAirDate": "1990-10-08",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000267647",
+      "title": "Business as Usual",
+      "titleGerman": "Kriegsgeschäfte",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000073238",
+        "title": "Star Trek: Deep Space Nine"
+      },
+      "season": {
+        "uid": "SAMA0000001739",
+        "title": "DS9 Season 5"
+      },
+      "seasonNumber": 5,
+      "episodeNumber": 18,
+      "productionSerialNumber": "40510-516",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2373,
+      "yearTo": 2373,
+      "usAirDate": "1997-04-05",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000000462",
+      "title": "By Any Other Name",
+      "titleGerman": "Stein und Staub",
+      "titleItalian": null,
+      "titleJapanese": "宇宙300年の旅",
+      "series": {
+        "uid": "SEMA0000097474",
+        "title": "Star Trek: The Original Series"
+      },
+      "season": {
+        "uid": "SAMA0000001733",
+        "title": "TOS Season 2"
+      },
+      "seasonNumber": 2,
+      "episodeNumber": 21,
+      "productionSerialNumber": "60350",
+      "featureLength": false,
+      "stardateFrom": 4657.5,
+      "stardateTo": 4657.5,
+      "yearFrom": 2268,
+      "yearTo": 2268,
+      "usAirDate": "1968-02-23",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000000949",
+      "title": "By Inferno's Light",
+      "titleGerman": "Im Lichte des Infernos",
+      "titleItalian": null,
+      "titleJapanese": "敗れざる者・後編",
+      "series": {
+        "uid": "SEMA0000073238",
+        "title": "Star Trek: Deep Space Nine"
+      },
+      "season": {
+        "uid": "SAMA0000001739",
+        "title": "DS9 Season 5"
+      },
+      "seasonNumber": 5,
+      "episodeNumber": 15,
+      "productionSerialNumber": "40510-513",
+      "featureLength": false,
+      "stardateFrom": 50564.2,
+      "stardateTo": 50564.2,
+      "yearFrom": 2373,
+      "yearTo": 2373,
+      "usAirDate": "1997-02-17",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000000960",
+      "title": "Call to Arms",
+      "titleGerman": "Zu den Waffen!",
+      "titleItalian": null,
+      "titleJapanese": "DS9撤退の日",
+      "series": {
+        "uid": "SEMA0000073238",
+        "title": "Star Trek: Deep Space Nine"
+      },
+      "season": {
+        "uid": "SAMA0000001739",
+        "title": "DS9 Season 5"
+      },
+      "seasonNumber": 5,
+      "episodeNumber": 26,
+      "productionSerialNumber": "40510-524",
+      "featureLength": false,
+      "stardateFrom": 50975.2,
+      "stardateTo": 50975.2,
+      "yearFrom": 2373,
+      "yearTo": 2373,
+      "usAirDate": "1997-06-16",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000003487",
+      "title": "Canamar",
+      "titleGerman": "Canamar",
+      "titleItalian": null,
+      "titleJapanese": "地獄への護送船",
+      "series": {
+        "uid": "SEMA0000103435",
+        "title": "Star Trek: Enterprise"
+      },
+      "season": {
+        "uid": "SAMA0000001757",
+        "title": "ENT Season 2"
+      },
+      "seasonNumber": 2,
+      "episodeNumber": 17,
+      "productionSerialNumber": "40358-043",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2152,
+      "yearTo": 2152,
+      "usAirDate": "2003-02-26",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000001352",
+      "title": "Captain's Holiday",
+      "titleGerman": "Picard macht Urlaub",
+      "titleItalian": null,
+      "titleJapanese": "大いなるホリデイ",
+      "series": {
+        "uid": "SEMA0000062876",
+        "title": "Star Trek: The Next Generation"
+      },
+      "season": {
+        "uid": "SAMA0000001635",
+        "title": "TNG Season 3"
+      },
+      "seasonNumber": 3,
+      "episodeNumber": 19,
+      "productionSerialNumber": "40273-167",
+      "featureLength": false,
+      "stardateFrom": 43745.2,
+      "stardateTo": 43745.2,
+      "yearFrom": 2366,
+      "yearTo": 2366,
+      "usAirDate": "1990-04-02",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000000844",
+      "title": "Captive Pursuit",
+      "titleGerman": "Tosk, der Gejagte",
+      "titleItalian": null,
+      "titleJapanese": "ワーム・ホールから来たエイリアン",
+      "series": {
+        "uid": "SEMA0000073238",
+        "title": "Star Trek: Deep Space Nine"
+      },
+      "season": {
+        "uid": "SAMA0000001735",
+        "title": "DS9 Season 1"
+      },
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "productionSerialNumber": "40511-406",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": 2369,
+      "yearTo": 2369,
+      "usAirDate": "1993-01-30",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000003386",
+      "title": "Carbon Creek",
+      "titleGerman": "Carbon Creek",
+      "titleItalian": null,
+      "titleJapanese": "スプートニクの飛んだ夜に",
+      "series": {
+        "uid": "SEMA0000103435",
+        "title": "Star Trek: Enterprise"
+      },
+      "season": {
+        "uid": "SAMA0000001757",
+        "title": "ENT Season 2"
+      },
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "productionSerialNumber": "40358-027",
+      "featureLength": false,
+      "stardateFrom": null,
+      "stardateTo": null,
+      "yearFrom": null,
+      "yearTo": null,
+      "usAirDate": "2002-09-25",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000000863",
+      "title": "Cardassians",
+      "titleGerman": "Die Konspiration",
+      "titleItalian": null,
+      "titleJapanese": null,
+      "series": {
+        "uid": "SEMA0000073238",
+        "title": "Star Trek: Deep Space Nine"
+      },
+      "season": {
+        "uid": "SAMA0000001736",
+        "title": "DS9 Season 2"
+      },
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "productionSerialNumber": "40512-425",
+      "featureLength": false,
+      "stardateFrom": 47177.2,
+      "stardateTo": 47177.2,
+      "yearFrom": 2370,
+      "yearTo": 2370,
+      "usAirDate": "1993-10-24",
+      "finalScriptDate": null
+    },
+    {
+      "uid": "EPMA0000001459",
+      "title": "Caretaker",
+      "titleGerman": "Der Fürsorger, Teil I",
+      "titleItalian": null,
+      "titleJapanese": "遥かなる地球へ",
+      "series": {
+        "uid": "SEMA0000000029",
+        "title": "Star Trek: Voyager"
+      },
+      "season": {
+        "uid": "SAMA0000001742",
+        "title": "VOY Season 1"
+      },
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "productionSerialNumber": "40841-721",
+      "featureLength": true,
+      "stardateFrom": 48315.6,
+      "stardateTo": 48317,
+      "yearFrom": 2371,
+      "yearTo": 2371,
+      "usAirDate": "1995-01-16",
+      "finalScriptDate": null
+    }
+  ]
+}

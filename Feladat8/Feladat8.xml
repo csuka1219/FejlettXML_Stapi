@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animals>
+    <animal>
+        <uid>ANMA0000207496</uid>
+        <name>Ciona intestinal</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000037937</uid>
+        <name>Circassian cat</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000053496</uid>
+        <name>Circassian plague cat</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000027667</uid>
+        <name>Corvan gilvo</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000282950</uid>
+        <name>Corvarian sludge worm</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000206790</uid>
+        <name>Corvidae</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000211498</uid>
+        <name>Crab</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000209281</uid>
+        <name>Crustacean</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000240595</uid>
+        <name>Cyclops owl</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000080758</uid>
+        <name>Cytraxian cricket</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000017416</uid>
+        <name>Dalvin hissing beetle</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000005103</uid>
+        <name>Danaxian tapeworm</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000036271</uid>
+        <name>Degebian mountain goat</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000236865</uid>
+        <name>Delphoidia</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000236832</uid>
+        <name>Delphoidia cochrani</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000236835</uid>
+        <name>Delphoidia cochrani obliquidens</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000236833</uid>
+        <name>Delphoidia cochrani tempus</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000236837</uid>
+        <name>Delphoidia moroboshi</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000236841</uid>
+        <name>Delphoidia moroboshi lum</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000028279</uid>
+        <name>Denebian slime devil</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000029507</uid>
+        <name>Denebian whale</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000277761</uid>
+        <name>Denobulan blood worm</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000029746</uid>
+        <name>Denobulan lemur</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000032059</uid>
+        <name>Digger</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000005183</uid>
+        <name>Dinosaur</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000012261</uid>
+        <name>Dragon</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000119524</uid>
+        <name>Drakoulias</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044744</uid>
+        <name>Drathan puppy lig</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044478</uid>
+        <name>Draxxan cloud viper</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000032378</uid>
+        <name>Drayjin</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000079699</uid>
+        <name>Dunghill bird</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000083820</uid>
+        <name>Dust mite</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044846</uid>
+        <name>Edosian slug</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000027586</uid>
+        <name>Edosian suckerfish</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000027695</uid>
+        <name>Eel</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000016802</uid>
+        <name>Eel-bird</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000088545</uid>
+        <name>Embryonic lifeform</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000035282</uid>
+        <name>Fargan</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044479</uid>
+        <name>Filian python</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044480</uid>
+        <name>Fire snake</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000032380</uid>
+        <name>Fire wolf</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000200180</uid>
+        <name>Firefly</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000032712</uid>
+        <name>Flaked blood flea</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000028278</uid>
+        <name>Flitterbird</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000270261</uid>
+        <name>Florka</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000007263</uid>
+        <name>Flying parasite</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000240950</uid>
+        <name>Fowl</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000271824</uid>
+        <name>Frog</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000003672</uid>
+        <name>Gagh</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000258230</uid>
+        <name>Galardonian insect</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000031992</uid>
+        <name>Garanian bolite</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000154537</uid>
+        <name>Genesis worm</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000028290</uid>
+        <name>Gettle</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044745</uid>
+        <name>Ghergher beast</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000050767</uid>
+        <name>Giant dry-worm</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000014541</uid>
+        <name>Glob fly</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000018131</uid>
+        <name>Glommer</name>
+    </animal>
+</animals>

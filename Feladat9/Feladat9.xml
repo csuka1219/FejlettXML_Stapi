@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<performers>
+    <livingPerformers>
+        <performer>
+            <uid>PEMA0000006409</uid>
+            <name>Kate Mulgrew</name>
+            <dateOfBirth>1955-04-29</dateOfBirth>
+            <gender>F</gender>
+        </performer>
+        <performer>
+            <uid>PEMA0000094908</uid>
+            <name>Anthony De Longis</name>
+            <dateOfBirth>1950-03-23</dateOfBirth>
+            <gender>M</gender>
+        </performer>
+        <performer>
+            <uid>PEMA0000008938</uid>
+            <name>Robert Beltran</name>
+            <dateOfBirth>1953-11-19</dateOfBirth>
+            <gender>M</gender>
+        </performer>
+        <performer>
+            <uid>PEMA0000075622</uid>
+            <name>Holiday Freeman</name>
+            <dateOfBirth>1956-11-06</dateOfBirth>
+            <gender>F</gender>
+        </performer>
+        <performer>
+            <uid>PEMA0000005669</uid>
+            <name>Ethan Phillips</name>
+            <dateOfBirth>1955-02-08</dateOfBirth>
+            <gender>M</gender>
+        </performer>
+        <performer>
+            <uid>PEMA0000011149</uid>
+            <name>Dennis Madalone</name>
+            <dateOfBirth>1954-09-29</dateOfBirth>
+            <gender>M</gender>
+        </performer>
+        <performer>
+            <uid>PEMA0000015998</uid>
+            <name>Patricia Tallman</name>
+            <dateOfBirth>1957-09-04</dateOfBirth>
+            <gender>F</gender>
+        </performer>
+        <performer>
+            <uid>PEMA0000082183</uid>
+            <name>Tim Russ</name>
+            <dateOfBirth>1956-06-22</dateOfBirth>
+            <gender>M</gender>
+        </performer>
+        <performer>
+            <uid>PEMA0000005668</uid>
+            <name>Robert Picardo</name>
+            <dateOfBirth>1953-10-27</dateOfBirth>
+            <gender>M</gender>
+        </performer>
+        <performer>
+            <uid>PEMA0000009003</uid>
+            <name>Brad Dourif</name>
+            <dateOfBirth>1950-03-18</dateOfBirth>
+            <gender>M</gender>
+        </performer>
+        <performer>
+            <uid>PEMA0000005666</uid>
+            <name>Roxann Dawson</name>
+            <dateOfBirth>1958-09-11</dateOfBirth>
+            <gender>F</gender>
+        </performer>
+    </livingPerformers>
+    <deceasedPerformers>
+        <performer>
+            <uid>PEMA0000026270</uid>
+            <name>Ken Lesco</name>
+            <dateOfBirth>1950-02-18</dateOfBirth>
+            <gender>M</gender>
+        </performer>
+    </deceasedPerformers>
+</performers>
