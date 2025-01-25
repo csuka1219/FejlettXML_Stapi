@@ -1,3 +1,6 @@
+(:Visszaadja azokat az előadókat, akik az 1950-es években születtek. Az eredmény XML formátumban, élő és elhunyt előadók szerint csoportosítva jelenik meg.
+:)
+
 xquery version "3.1";
 
 declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";
