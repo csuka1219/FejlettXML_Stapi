@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <weapons>
     <weapon>
-        <name>Advanced long-range torpedo</name>
+        <name>Delay detonation device</name>
         <explosiveWeapon>true</explosiveWeapon>
-        <alternateReality>true</alternateReality>
+        <alternateReality>false</alternateReality>
     </weapon>
     <weapon>
-        <name>Cold fusion device</name>
+        <name>Houdini</name>
         <explosiveWeapon>true</explosiveWeapon>
-        <alternateReality>true</alternateReality>
+        <alternateReality>false</alternateReality>
+    </weapon>
+    <weapon>
+        <name>Variable yield</name>
+        <explosiveWeapon>true</explosiveWeapon>
+        <alternateReality>false</alternateReality>
     </weapon>
 </weapons>
