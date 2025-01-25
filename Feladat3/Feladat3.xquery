@@ -1,3 +1,6 @@
+(:Visszaadja azokat az epizódokat, amelyek 2100 és 2200 között játszódnak JSON formátumban.
+:)
+
 xquery version "3.1";
 
 declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";
