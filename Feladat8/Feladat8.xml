@@ -1,6 +1,234 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <animals>
     <animal>
+        <uid>ANMA0000032315</uid>
+        <name>'Owon</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000034899</uid>
+        <name>Aldebaran mud leech</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000008622</uid>
+        <name>Aldebaran serpent</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000010045</uid>
+        <name>Aldebaran shellmouth</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000028270</uid>
+        <name>Algorian mammoth</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000260398</uid>
+        <name>Alien horse</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000004117</uid>
+        <name>Altarian marsupial</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000264608</uid>
+        <name>Altarian spider</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000028271</uid>
+        <name>Alvanian cave sloth</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000010209</uid>
+        <name>Alvanian spine mite</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000028272</uid>
+        <name>Alverian dung beetle</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000032373</uid>
+        <name>Amphibian</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000028556</uid>
+        <name>Andorian bull</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000005771</uid>
+        <name>Andorian redbat</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000012914</uid>
+        <name>Anthropoid ape</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000284511</uid>
+        <name>Aquathawn</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000025923</uid>
+        <name>Arachnid</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000028273</uid>
+        <name>Arbazan vulture</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000020517</uid>
+        <name>Arboreal needle snake</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044740</uid>
+        <name>Arctic spider</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000022561</uid>
+        <name>Arcturian dog bird</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000039166</uid>
+        <name>Arkarian horn fowl</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000000111</uid>
+        <name>Aurelian</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000027506</uid>
+        <name>Bajoran bat</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000035446</uid>
+        <name>Bajoran shrimp</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000086683</uid>
+        <name>Baneriam hawk</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000041616</uid>
+        <name>Bardakian pronghorn moose</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044739</uid>
+        <name>Barrowbug</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000015437</uid>
+        <name>Belzoidian flea</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000028280</uid>
+        <name>Berserker cat</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000118804</uid>
+        <name>Betazoid cat</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000231825</uid>
+        <name>Betelgeusian</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000083578</uid>
+        <name>Bloodworm</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044742</uid>
+        <name>Bluehorn</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000032408</uid>
+        <name>Bore worm</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000222207</uid>
+        <name>Borogove</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000010433</uid>
+        <name>Bregit lung</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000276679</uid>
+        <name>Brussel fly</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000269632</uid>
+        <name>Bug</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044743</uid>
+        <name>Bulgallian sludge rat</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000253273</uid>
+        <name>Bunnicorn</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000037963</uid>
+        <name>Caitian</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000017417</uid>
+        <name>Caldorian eel</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000045439</uid>
+        <name>Calogan dog</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000028995</uid>
+        <name>Calrissian chameleon</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000053901</uid>
+        <name>Canopus III dinosaur</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000035342</uid>
+        <name>Capellan power-cat</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000274945</uid>
+        <name>Caracal</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000000522</uid>
+        <name>Cardassian vole</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000028250</uid>
+        <name>Carnivorous rastipod</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000231054</uid>
+        <name>Caterpillar</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000283030</uid>
+        <name>Cave bug</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000032367</uid>
+        <name>Cave-rat</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000115392</uid>
+        <name>Centaurian slug</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000272281</uid>
+        <name>Centipede</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000009964</uid>
+        <name>Ceti eel</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000030573</uid>
+        <name>Chattel</name>
+    </animal>
+    <animal>
         <uid>ANMA0000207496</uid>
         <name>Ciona intestinal</name>
     </animal>
@@ -227,5 +455,913 @@
     <animal>
         <uid>ANMA0000018131</uid>
         <name>Glommer</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000275381</uid>
+        <name>Gorathian sulfur slug</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000229650</uid>
+        <name>Gormagander</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000027257</uid>
+        <name>Gorokian midwife toad</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000028903</uid>
+        <name>Gossamer mouse</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000079711</uid>
+        <name>Grakel</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000032417</uid>
+        <name>Gree-worm</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000049635</uid>
+        <name>Grint hound</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000009822</uid>
+        <name>Grishnar cat</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000031960</uid>
+        <name>Gunji jackdaw</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000028900</uid>
+        <name>Halo fish</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000011234</uid>
+        <name>Hanonian land eel</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000009821</uid>
+        <name>Hara cat</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000119526</uid>
+        <name>Hengrauggi</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000204838</uid>
+        <name>Hominid</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000023164</uid>
+        <name>Hornbuck</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000012913</uid>
+        <name>Humanoid bird</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044746</uid>
+        <name>Hupyrian beetle</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000015935</uid>
+        <name>Ice-bore</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000004122</uid>
+        <name>Immunocytic gel worm</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000061771</uid>
+        <name>Interphasic organism</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000035541</uid>
+        <name>Jackal mastiff</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000277722</uid>
+        <name>Jajtspat</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000075740</uid>
+        <name>Joranian ostrich</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000009993</uid>
+        <name>Jumbo Romulan mollusk</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000009992</uid>
+        <name>Jumbo Vulcan mollusk</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000274629</uid>
+        <name>Kaminar sea frog</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000066798</uid>
+        <name>Kandipper</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044842</uid>
+        <name>Kavarian tiger-bat</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000047847</uid>
+        <name>Kelaran wildebeest</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000271248</uid>
+        <name>Kerplickian louse</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044835</uid>
+        <name>Klabnian eel</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000035545</uid>
+        <name>Klingon monster dog</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000028248</uid>
+        <name>Kolar beast</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000010530</uid>
+        <name>Kos'Karii</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000277721</uid>
+        <name>Kowolian nightsprey</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000097536</uid>
+        <name>Krada</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044836</uid>
+        <name>Krallinian eel</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000043923</uid>
+        <name>Kryonian tiger</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000079801</uid>
+        <name>Kylerian goat</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000001831</uid>
+        <name>Kzinti</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000238354</uid>
+        <name>Lap dog</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000013595</uid>
+        <name>Lapling</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000030335</uid>
+        <name>Lavafly</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000011686</uid>
+        <name>Le-matya</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000008620</uid>
+        <name>Ligorian mastodon</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000036921</uid>
+        <name>Lingta</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000029083</uid>
+        <name>Lizard</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000216988</uid>
+        <name>Loracadae</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000051859</uid>
+        <name>Loracus devil mite</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000243933</uid>
+        <name>Lovebirds</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000082695</uid>
+        <name>Luhvian quail</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000026477</uid>
+        <name>Lycosa tarantula</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000041287</uid>
+        <name>Lynar</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000010309</uid>
+        <name>Lyssarian Desert Larvae</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000274814</uid>
+        <name>Malindian stomach worm</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000053900</uid>
+        <name>Maravel dragon</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000015436</uid>
+        <name>Markoffian sea lizard</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000103839</uid>
+        <name>Mellanoid slime worm</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000012188</uid>
+        <name>Mellitus</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044847</uid>
+        <name>Melvaran mud flea</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000093666</uid>
+        <name>Mollusk</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000028276</uid>
+        <name>Mordian butterfly</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000079831</uid>
+        <name>Morrok</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000019734</uid>
+        <name>Mugato</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000274943</uid>
+        <name>Narisa beetle</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000012471</uid>
+        <name>Neethian cradlefish</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000236866</uid>
+        <name>Neopictis</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000236847</uid>
+        <name>Neopictis gourami</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000236845</uid>
+        <name>Neopictis spinotap</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000236846</uid>
+        <name>Neopictis spinotap cochrani</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000289086</uid>
+        <name>Nepenthian red-winged banshee</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000032369</uid>
+        <name>Nesset</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000212799</uid>
+        <name>Nimbosian horse</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000043884</uid>
+        <name>Nitrium parasite</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000281220</uid>
+        <name>Nivallan sea urchin</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000012895</uid>
+        <name>Norpin falcon</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000236867</uid>
+        <name>Oceosauroida</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000236842</uid>
+        <name>Oceosauroida mendo</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000236843</uid>
+        <name>Oceosauroida mendo shinobu</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000236844</uid>
+        <name>Oceosauroida mendo shutaro</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000236862</uid>
+        <name>Oniboshi lum</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000236863</uid>
+        <name>Oniboshi lum ran</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000236864</uid>
+        <name>Oniobshi benten</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000024201</uid>
+        <name>Ophidian</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000204068</uid>
+        <name>Organic grenade</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000043012</uid>
+        <name>Orillian lung maggot</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000009861</uid>
+        <name>Orion wing-slug</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000004130</uid>
+        <name>Osmotic eel</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000009577</uid>
+        <name>Palamarian sea urchin</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000014823</uid>
+        <name>Palukoo</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000011771</uid>
+        <name>Photonic flea</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000028275</uid>
+        <name>Plygorian mammoth</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000051343</uid>
+        <name>Primate</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000081116</uid>
+        <name>Pus hog</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044808</uid>
+        <name>Pycan space moth</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000005602</uid>
+        <name>Pyrithian bat</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000031953</uid>
+        <name>Pyrithian moon hawk</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000030550</uid>
+        <name>Rafalian mouse</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044843</uid>
+        <name>Rakonian swamp rat</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000068707</uid>
+        <name>Raptor</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044450</uid>
+        <name>Rat</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000065299</uid>
+        <name>Razorcat</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000261016</uid>
+        <name>Rectal insectoid</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000042248</uid>
+        <name>Rectilian vulture</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000040810</uid>
+        <name>Rectyne monopod</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000031951</uid>
+        <name>Reeta-hawk</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000024036</uid>
+        <name>Regalian fleaspider</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000032412</uid>
+        <name>Regellian blood worm</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000028294</uid>
+        <name>Regulan bloodworm</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000027721</uid>
+        <name>Reptile</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000027995</uid>
+        <name>Rhyl</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000000523</uid>
+        <name>Riding hound</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000281347</uid>
+        <name>Rigelian tiger</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044897</uid>
+        <name>Rigellian hypnoid</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000059721</uid>
+        <name>Rigellian ox</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000059334</uid>
+        <name>Risan sea turtle</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000037173</uid>
+        <name>Risian bird</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000035071</uid>
+        <name>Rock beast</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000104068</uid>
+        <name>Rodent</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000009823</uid>
+        <name>Saber bear</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000271213</uid>
+        <name>Salamander</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000043924</uid>
+        <name>Samarian coral fish</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000020115</uid>
+        <name>Sand bat</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000009820</uid>
+        <name>Sark</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044896</uid>
+        <name>Screech rhino</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000263461</uid>
+        <name>Sea locust</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000005721</uid>
+        <name>Sehlat</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044811</uid>
+        <name>Seltan carnosaur</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000009505</uid>
+        <name>Serpent of Xol</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000042355</uid>
+        <name>Serpent worm</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000009870</uid>
+        <name>Set'leth</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044840</uid>
+        <name>Shib'a lizard</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000042138</uid>
+        <name>Sinoraptor</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000028706</uid>
+        <name>Skorr</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000283812</uid>
+        <name>Sky snake</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000281219</uid>
+        <name>Slanikian oyster</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000065258</uid>
+        <name>Slug</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000027722</uid>
+        <name>Snake</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000005603</uid>
+        <name>Snow beetle</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000264785</uid>
+        <name>Sorrowhawk</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000009867</uid>
+        <name>Space amoeba</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000239646</uid>
+        <name>Space rabbit</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000031971</uid>
+        <name>Spawn beetle</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000226865</uid>
+        <name>Species GS54</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000246211</uid>
+        <name>Spider</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000258154</uid>
+        <name>Spider cow</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000031912</uid>
+        <name>Spiny lobe-fish</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000063858</uid>
+        <name>Spitting cobra</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000051860</uid>
+        <name>Spitting termite</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000236868</uid>
+        <name>Squaluformus</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000236853</uid>
+        <name>Squaluformus vino</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000236854</uid>
+        <name>Squaluformus vino shiro</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000239371</uid>
+        <name>Starfish</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044844</uid>
+        <name>Stromatopod</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000080755</uid>
+        <name>Subspace mesomorph</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044481</uid>
+        <name>Sun viper</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000028289</uid>
+        <name>Sur-snake</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000276677</uid>
+        <name>Swamp cat</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000013643</uid>
+        <name>Swarming moth</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000035062</uid>
+        <name>Swooper</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000009819</uid>
+        <name>T'stayan</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000030548</uid>
+        <name>Takaran wildebeest</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000016521</uid>
+        <name>Talarian hook spider</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000031964</uid>
+        <name>Talaxian Furfly</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000215707</uid>
+        <name>Talchok</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044848</uid>
+        <name>Tarcassian razor beast</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044809</uid>
+        <name>Tarchee cat</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000073197</uid>
+        <name>Tardeth</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000228142</uid>
+        <name>Tardigrade</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000004230</uid>
+        <name>Targ</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044837</uid>
+        <name>Targhee moonbeast</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000034938</uid>
+        <name>Tarkalean condor</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000031950</uid>
+        <name>Tarkalean hawk</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000081944</uid>
+        <name>Tarkanian field mouse</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000275383</uid>
+        <name>Tartan vole</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000013235</uid>
+        <name>Taspar</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000204259</uid>
+        <name>Techno-larva</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000023703</uid>
+        <name>Teirenian ant</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000034731</uid>
+        <name>Teneebian skunk</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044833</uid>
+        <name>Terellian pheasant</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000056313</uid>
+        <name>Terrelian seapod</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000079832</uid>
+        <name>The Fire-Beast of Sullus</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000026881</uid>
+        <name>Tiberian bat</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000203334</uid>
+        <name>Tick</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000065855</uid>
+        <name>Tiger</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044838</uid>
+        <name>Tika cat</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000197668</uid>
+        <name>Toad</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000030569</uid>
+        <name>Torga</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000036267</uid>
+        <name>Torothan goat</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000261266</uid>
+        <name>Trance worm</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044839</uid>
+        <name>Trayken beast</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000004546</uid>
+        <name>Tree scarab</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000030563</uid>
+        <name>Trellan crocodile</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000007158</uid>
+        <name>Tribble</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000072389</uid>
+        <name>Tube grub</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000027723</uid>
+        <name>Turtle</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000274836</uid>
+        <name>Tuscadian pyrosome</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000230354</uid>
+        <name>Unicorn</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000020597</uid>
+        <name>Vakol fish</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000274647</uid>
+        <name>Valebeast</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000253891</uid>
+        <name>Vashti insect</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000058796</uid>
+        <name>Vayan horn fly</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000236850</uid>
+        <name>Vermacelli alfredo</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000018247</uid>
+        <name>Vermicula</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000155223</uid>
+        <name>Vermicular lifeform</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000286657</uid>
+        <name>Vermin</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000282441</uid>
+        <name>Verugament</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000028268</uid>
+        <name>Vicarian razorback</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000059391</uid>
+        <name>Viper</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044849</uid>
+        <name>Volg</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000008623</uid>
+        <name>Vorian pterodactyl</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044741</uid>
+        <name>Vulcan marsupial</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000028295</uid>
+        <name>Vulcan sandworm</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000277786</uid>
+        <name>Wakak</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000028267</uid>
+        <name>Wanoni tracehound</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000009582</uid>
+        <name>Wentlian condor snake</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000180208</uid>
+        <name>Whale</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000028291</uid>
+        <name>Wompat</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000284952</uid>
+        <name>Wood leech</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000027701</uid>
+        <name>Worm</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000004300</uid>
+        <name>Xanthan marmot</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000002000</uid>
+        <name>Xindi-Avian</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000030574</uid>
+        <name>Yar-bear</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000044586</uid>
+        <name>Yridian yak</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000005215</uid>
+        <name>Zabathu</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000028269</uid>
+        <name>Zabu</name>
+    </animal>
+    <animal>
+        <uid>ANMA0000070743</uid>
+        <name>Zyznian church mouse</name>
     </animal>
 </animals>
