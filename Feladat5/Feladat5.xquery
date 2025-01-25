@@ -8,8 +8,24 @@ declare option output:method "xml";
 declare option output:html-version "5.0";
 declare option output:indent "yes";
 
-let $weaponsJSON := fn:json-doc("../weapons.json")
-let $weapons := $weaponsJSON?weapons?*
+declare function local:fetch-page($pageNumber as xs:integer) {
+    let $url := "https://stapi.co/api/v2/rest/weapon/search"
+    let $params := "?pageNumber=" || $pageNumber || "&amp;pageSize=100"
+    return json-doc($url || $params)
+};
+
+declare function local:get-all-weapons() {
+    let $first-page := local:fetch-page(0)
+    let $total-pages := xs:integer($first-page?page?totalPages)
+    
+    let $all-pages := 
+        for $page in 0 to ($total-pages - 1)
+        return local:fetch-page($page)?weapons?*
+        
+    return $all-pages
+};
+
+let $weapons := local:get-all-weapons()
 let $weaponCategories := 
     for $weapon in $weapons
     for $key in map:keys($weapon)
