@@ -1,3 +1,6 @@
+(:Visszaadja azokat az epizódokat JSON tömbként, amelyek amerikai sugárzási dátumának nap része prímszám.
+:)
+
 xquery version "3.1";
 declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";
 
