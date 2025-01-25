@@ -1,3 +1,10 @@
+(:Ez a lekérdezés visszaadja azokat a fegyvereket, amelyek:
+
+    Robbanó fegyverek,
+    Alternatív valóságban szerepelnek,
+    Nevükben több mássalhangzó van, mint magánhangzó.
+:)
+
 xquery version "3.1";
 
 declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";
