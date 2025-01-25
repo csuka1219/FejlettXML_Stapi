@@ -1,3 +1,6 @@
+(:Visszaadja azokat az állatokat, amelyek nem földi eredetűek, XML formátumban.
+:)
+
 xquery version "3.1";
 
 declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";
