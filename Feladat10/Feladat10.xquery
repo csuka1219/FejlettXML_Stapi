@@ -1,3 +1,6 @@
+(:Visszaadja azokat az epizódokat JSON formátumban, ahol az epizódszám osztható az évad számával.
+:)
+
 xquery version "3.1";
 
 declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";
