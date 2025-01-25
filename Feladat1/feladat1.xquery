@@ -1,10 +1,9 @@
 (:Ez a lekérdezés visszaadja azokat a fegyvereket, amelyek:
 
     Robbanó fegyverek,
-    Alternatív valóságban szerepelnek,
+    Nem alternatív valóságban szerepelnek,
     Nevükben több mássalhangzó van, mint magánhangzó.
 :)
-
 xquery version "3.1";
 
 declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";
@@ -32,8 +31,8 @@ declare function local:get-all-weapons() {
 };
 
 let $weapons := local:get-all-weapons(),
-    $filteredWeapons := $weapons[?explosiveWeapon and ?alternateReality and 
-                                string-length(translate(?name, 'aeiouyAEIOUY', '')) < string-length(?name) - 2],
+    $filteredWeapons := $weapons[?explosiveWeapon and not(?alternateReality) and 
+                                string-length(translate(?name, 'aeiouyAEIOUY', '')) < string-length(translate(?name, 'bcdfghjklmnpqrstvwxzBCDFGHJKLMNPQRSTVWXZ', ''))],
     $generatedXML := document {
         <weapons>
             {
