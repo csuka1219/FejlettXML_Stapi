@@ -1,3 +1,6 @@
+(:HTML táblázatot készít az epizódban szereplő színészek adataiból, Bootstrap segítségével.
+:)
+
 xquery version "3.1";
 declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";
 
